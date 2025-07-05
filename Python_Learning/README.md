@@ -1,5 +1,5 @@
 # Python-Learning
-This repository contains all of my Python learning material and programs that I’ve created while learning or practicing Python. 
+This folder contains all of my Python learning material and programs that I’ve created while learning or practicing Python. 
 
 Current concepts included:
 - Arithmetic Operators
