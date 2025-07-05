@@ -1,10 +1,7 @@
-# Python--Projects
-This repository contains all of my Python projects that I’ve created while learning or practicing Python. 
+# Python-Projects
+This repository contains all of my Python projects, learning material, and basic programs. 
 
-Current programs include:
-- madlibs game
-- basic python calculator
-- weight converter
-- countdown timer
-- compound interest calculator
-- temperature conversion calculator
+Current content includes:
+- Python-Learning
+
+
