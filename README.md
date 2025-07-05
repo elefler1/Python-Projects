@@ -7,3 +7,4 @@ Current programs include:
 - weight converter
 - countdown timer
 - compound interest calculator
+- temperature conversion calculator
