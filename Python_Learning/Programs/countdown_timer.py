@@ -1,18 +1,18 @@
 # Python Countdown Timer Program
 
-import time
+# import time
 
-my_time = int(input("Enter the tiem in seconds: "))
+# my_time = int(input("Enter the tiem in seconds: "))
 
 
-for x in range( my_time, 0, -1):
-    hours = int(x / 3600)
-    minutes = int(x / 60) % 60
-    seconds = x % 60
-    print(f"{hours:02}:{minutes:02}:{seconds:02}")
-    time.sleep(1)
+# for x in range( my_time, 0, -1):
+#     hours = int(x / 3600)
+#     minutes = int(x / 60) % 60
+#     seconds = x % 60
+#     print(f"{hours:02}:{minutes:02}:{seconds:02}")
+#     time.sleep(1)
 
-print("TIME'S UP!")
+# print("TIME'S UP!")
 
 # Advanced Countdown Timer Program
 
