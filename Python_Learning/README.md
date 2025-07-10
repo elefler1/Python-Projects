@@ -14,6 +14,17 @@ Current concepts included:
 - Typecasting
 - Variables
 - WHILE Loops
+- Collections
+- Random Numbers
+
+Exercsies included:
+- 2D Keypad
+- Account Creation
+- Arithmetic Operater 1
+- Arithmetic Operater 2
+- Arithmetic Operater 3
+- Inputs 1
+- Inputs 2
 
 Current programs include:
 - Madlibs Game
@@ -22,3 +33,8 @@ Current programs include:
 - Countdown Timer (Basic and Advanced)
 - Compound Interest Calculator
 - Temperature Conversion Calculator
+- Concsession Stand Program
+- Number Guessing Game
+- Quiz Game
+- Rock, Paper, Scissors Game
+- Shopping Cart Program
