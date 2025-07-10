@@ -1,7 +1,7 @@
 # Python-Learning
 This folder contains all of my Python learning material and programs that I’ve created while learning or practicing Python. 
 
-Current concepts included:
+Concepts included:
 - Arithmetic Operators
 - Conditional Expressions
 - FOR Loops
@@ -26,7 +26,7 @@ Exercsies included:
 - Inputs 1
 - Inputs 2
 
-Current programs include:
+Programs include:
 - Madlibs Game
 - Basic Python Calculator
 - Weight Converter
