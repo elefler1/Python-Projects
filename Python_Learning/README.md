@@ -16,6 +16,9 @@ Concepts included:
 - WHILE Loops
 - Collections
 - Random Numbers
+- Functions
+- Default Arguments
+- Keyword Arguments
 
 Exercsies included:
 - 2D Keypad
@@ -33,8 +36,9 @@ Programs include:
 - Countdown Timer (Basic and Advanced)
 - Compound Interest Calculator
 - Temperature Conversion Calculator
-- Concsession Stand Program
+- Concsession Stand
 - Number Guessing Game
 - Quiz Game
 - Rock, Paper, Scissors Game
-- Shopping Cart Program
+- Shopping Cart
+- Dice Roller
